@@ -1,4 +1,4 @@
 Algorithms
 ==========
 
-This is for Algorithm
+This is for Algorithm repo
