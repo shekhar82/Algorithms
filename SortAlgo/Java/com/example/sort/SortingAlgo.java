@@ -1,6 +1,8 @@
 package com.example.sort;
 
 
+import java.util.Comparator;
+
 public class SortingAlgo<E> {
 
 	/**
@@ -19,8 +21,10 @@ public class SortingAlgo<E> {
 		}
 
 	}
-	
-	
+
+
+
+
 	
 	public static <T extends Comparable> T[] insertionSort(T[] array){
 		int len = array.length;
